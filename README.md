@@ -4,10 +4,9 @@ Pre-Work project for Codepath's Intro to Android development course
 ## MYFIRSTANDROIDAPPLICATION
 
 ### App Description
-I successfully completed adding all the required and the additional features into my app.
+One of the coolest app ever made. Hehe!
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 <img src="http://g.recordit.co/WR5o5f2zO3.gif" width=200><br>
 
