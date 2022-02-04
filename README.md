@@ -6,7 +6,7 @@ Pre-Work project for Codepath's Intro to Android development course
 ### App Description
 One of the coolest app ever made. Hehe!
 
-### App Walk-though
+### App Walk-through
 
 <img src="http://g.recordit.co/WR5o5f2zO3.gif" width=200><br>
 
