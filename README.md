@@ -4,7 +4,7 @@ Pre-Work project for Codepath's Intro to Android development course
 ## MYFIRSTANDROIDAPPLICATION
 
 ### App Description
-One of the coolest app ever made. Hehe!
+One of the coolest apps ever made. Hehe!
 
 ### App Walk-through
 
